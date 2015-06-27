@@ -9,10 +9,7 @@ namespace CameraParameterDeriverService
 {
     public class LineType
     {
-        // sets line types,
-        static LineType()
-        {
-        }
+        // sets line types, 
 
         public static LineType Blank;
         public static LineType Header;

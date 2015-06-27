@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CameraParameterDeriverService
 {
-    interface IBundleFileAnalyser
+    public interface IBundleFileAnalyser
     {
-        LineType AnalyseLine(string line);
+        CamAndPointsStructure Parse(string filename);
 
     }
 }

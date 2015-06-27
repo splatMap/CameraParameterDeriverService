@@ -1,0 +1,2 @@
+c:\users\anthony\documents\visual studio 2013\Projects\CameraParameterDeriverService\CameraParameterDeriverService\obj\Debug\CameraParameterDeriverService.csproj.App.config
+c:\users\anthony\documents\visual studio 2013\Projects\CameraParameterDeriverService\CameraParameterDeriverService\obj\Debug\CameraParameterDeriverService.csprojResolveAssemblyReference.cache
